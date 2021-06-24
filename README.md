@@ -1,1 +1,0 @@
-# zebra-striped-table
